@@ -1,0 +1,1 @@
+console.log("[LayerNote] Content script loaded");
